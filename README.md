@@ -1,8 +1,8 @@
 # 2-Part-Animation-3D-Model-OpenGL
 
-Partnered Project w/ Douglass Bell
+Partnered Project w/ Douglas Bell
 
-Douglass' contributions :
+Douglas' contributions :
 
   - person model from prior project, including limb animation
   - keyframe animation and pool splash effect
